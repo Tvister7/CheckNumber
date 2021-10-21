@@ -10,6 +10,7 @@ FastAPI приложение для проверки номера в базе.
 Переходите в директорию приложения и можно запускать:
 
 `cd CheckNumber`
+
 `python3 application\main.py`
 
 # Additional script
